@@ -5,12 +5,12 @@
 - 🛠  Ever since, I have developed experience through work and honed my skills in machine learning using R and Python. I am currently learning to improve on my skills
 
 My skills include
-Python
-R
-Power BI
-Tableau
-SPSS
-PostgreSQL
+. Python
+. R
+. Power BI
+. Tableau
+. SPSS
+. PostgreSQL
 
 - 💞️ I’m looking to collaborate on projects and gain proficiency
 - 
