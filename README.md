@@ -12,9 +12,9 @@ My main skills include
 - SPSS
 - PostgreSQL
 
-- 💞️ I’m looking to collaborate on projects and gain proficiency
-- 
-- 📫 You can reach me via mail @ preciousaebu@gmail.com
+💞️ I’m looking to collaborate on projects and gain proficiency
+
+📫 You can reach me via mail @ preciousaebu@gmail.com
 <!---
 PreciousEbu/PreciousEbu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
