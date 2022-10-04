@@ -2,7 +2,7 @@
 - 👀 I’m passionate about research, problem solving and critical thinking.
 - 🏆 This led to my interest in Data Science especially statistical analysis and building predictive machine learning models.
 - 🌱 I started my journey in Data Science over a year ago with a certification course and I'm currently part of the Data Science cohort of the Womentechsters Fellowship 2023 class
-- 🛠  Ever since, I have developed experience through work and honed my skills in machine learning using R and Python. I am currently learning to improve on my skills
+- 🛠  Ever since, I have been working to develop more experience and hone my skills particularly statistical analysis, dashboard visualization and data modeling. I am currently learning to improve on my skills and become more proficient.
 
 My main skills include
 - Python
@@ -10,9 +10,10 @@ My main skills include
 - Power BI
 - Tableau
 - SPSS
+- Microsoft Excel
 - PostgreSQL
 
-💞️ I’m looking to collaborate on projects and gain proficiency
+💞️ I’m looking to collaborate on projects and gain valuable experience
 
 📫 You can reach me via mail @ preciousaebu@gmail.com
 <!---
