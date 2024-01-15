@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Precious Ebu
 - 👀 I’m passionate about research, problem solving and critical thinking.
 - 🏆 The part of Data Science I am most passionate about is statistical analysis and building predictive machine learning models.
-- 🌱 I started my journey in Data Science about 2 years ago with a certification course and I'm currently part of the Data Science cohort of the Womentechsters Fellowship 2023 class
+- 🌱 I started my journey in Data Science about 3 years ago with a certification course and internship.
 - 🛠 I am also working to develop more experience, improve my knowledge, hone my skills and become more proficient.
 - Specifically, I'm looking to become a generalist Data Scientist or a Research Data Scientist
 
