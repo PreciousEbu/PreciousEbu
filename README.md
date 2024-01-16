@@ -1,9 +1,17 @@
-- 👋 Hi, I’m Precious Ebu
-- 👀 I’m passionate about research, problem solving and critical thinking.
-- 🏆 The part of Data Science I am most passionate about is statistical analysis and building predictive machine learning models.
-- 🌱 I started my journey in Data Science about 3 years ago with a certification course and internship.
-- 🛠 I am also working to develop more experience, improve my knowledge, hone my skills and become more proficient.
+# Hi, I’m Precious Ebu 👋 
+  
+-  I’m a Data Scientist
+
+  
+## About me 👀🌱
+
+- I am a committed and driven self-starter, passionate about research, problem solving and critical thinking.
+- I am most passionate about **Data Science, Statistical Analysis and Machine Learning**.
+- I started my journey into Data Science about 3 years ago, fascinated by the potential of machine learning and artificial intelligence to revolutionize various fields and address complex problems.
+- Currently, I seek to develop more experience, improve my knowledge, hone my skills and become more proficient.
 - Specifically, I'm looking to become a generalist Data Scientist or a Research Data Scientist
+
+## Skills 🛠
 
 My main skills include
 - Python
@@ -14,9 +22,15 @@ My main skills include
 - Microsoft Excel
 - PostgreSQL
 
-💞️ I’m looking to collaborate on projects and gain valuable experience
+## Portfolio🏆
 
-📫 You can reach me via mail @ preciousaebu@gmail.com
+- To explore my projects and my portfolio, kindly visit my portfolio site at https://preciousebu.github.io/
+
+## Collaboration 🤝
+
+- I’m open to collaborate on projects, learn and gain valuable experience
+
+📫 You can also reach me via mail @ preciousaebu@gmail.com
 <!---
 PreciousEbu/PreciousEbu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
