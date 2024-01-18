@@ -24,7 +24,7 @@ My main skills include
 
 ## Portfolio🏆
 
-- To explore my projects and my portfolio, kindly visit my portfolio site at https://preciousebu.github.io/
+- To explore my projects and my portfolio, kindly check out my repositories or visit my portfolio site at https://preciousebu.github.io/ for highlights!
 
 ## Collaboration 🤝
 
